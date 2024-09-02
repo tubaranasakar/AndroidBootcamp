@@ -2,7 +2,7 @@ package com.example.kotlindersleri.ileri
 
 fun main() {
     // 1 -> Compile Error
-    val x = 10
+    //val x = 10
     //x = 5
 
     // 2 -> Exception : Runtime Error

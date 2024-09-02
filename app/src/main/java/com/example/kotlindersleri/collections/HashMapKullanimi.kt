@@ -16,8 +16,8 @@ fun main() {
     println(iller.size)
     println(iller.isEmpty())
 
-    for((anahtar,değer) in iller){
-        println("$anahtar -> $değer")
+    for((anahtar,deger) in iller){
+        println("$anahtar -> $deger")
     }
 
     iller.remove(41)

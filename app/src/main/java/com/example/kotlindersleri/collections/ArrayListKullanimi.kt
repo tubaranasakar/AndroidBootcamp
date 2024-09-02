@@ -2,7 +2,6 @@ package com.example.kotlindersleri.collections
 
 fun main() {
     //Tanımlama
-    val sayilar = ArrayList<Int>()
     val meyveler = ArrayList<String>()
 
     //Veri ekleme
